@@ -1,0 +1,25 @@
+{
+  "name": "codeshoes",
+  "version": "1.0.0",
+  "description": "Proyecto MINtic Ciclo 4 tienda de zapatos",
+  "main": "node server",
+  "scripts": {
+    "test": "node serrver\u001b[D\u001b[D\u001b[\u001b[\u001b[3~\u001b[C\u001b[C\u001b[ver"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JovannyE/CodeShoes.git"
+  },
+  "keywords": [
+    "Zapatos"
+  ],
+  "author": "FullCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JovannyE/CodeShoes/issues"
+  },
+  "homepage": "https://github.com/JovannyE/CodeShoes#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
